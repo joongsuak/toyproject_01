@@ -14,5 +14,7 @@ To Do List
 - mybatis 사용
  : 이클립스 플러그인 추가로 사용
 - 스프링 프레임워크 3 
+- 로깅 : log4j
+
 
 Versions

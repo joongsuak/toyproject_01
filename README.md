@@ -11,3 +11,8 @@ To Do List
 - 공통코드 구현
 - REST API 통신 구현
 - React 사용
+- mybatis 사용
+ : 이클립스 플러그인 추가로 사용
+- 스프링 프레임워크 3 
+
+Versions
